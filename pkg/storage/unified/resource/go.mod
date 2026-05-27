@@ -4,7 +4,6 @@ go 1.21.10
 
 require (
 	github.com/fullstorydev/grpchan v1.1.1
-	github.com/google/uuid v1.6.0
 	github.com/grafana/authlib v0.0.0-20240611075137-331cbe4e840f
 	github.com/grpc-ecosystem/go-grpc-middleware/v2 v2.1.0
 	github.com/prometheus/client_golang v1.19.0
@@ -30,6 +29,7 @@ require (
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
 	github.com/golang/protobuf v1.5.4 // indirect
 	github.com/google/gofuzz v1.2.0 // indirect
+	github.com/google/wire v0.7.0 // indirect
 	github.com/googleapis/gax-go/v2 v2.12.3 // indirect
 	github.com/jhump/protoreflect v1.15.1 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
@@ -47,7 +47,7 @@ require (
 	golang.org/x/crypto v0.24.0 // indirect
 	golang.org/x/net v0.26.0 // indirect
 	golang.org/x/oauth2 v0.20.0 // indirect
-	golang.org/x/sync v0.7.0 // indirect
+	golang.org/x/sync v0.8.0 // indirect
 	golang.org/x/sys v0.21.0 // indirect
 	golang.org/x/text v0.16.0 // indirect
 	golang.org/x/xerrors v0.0.0-20231012003039-104605ab7028 // indirect
