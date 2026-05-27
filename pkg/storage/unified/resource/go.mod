@@ -4,7 +4,6 @@ go 1.21.10
 
 require (
 	github.com/fullstorydev/grpchan v1.1.1
-	github.com/google/uuid v1.6.0
 	github.com/grafana/authlib v0.0.0-20240611075137-331cbe4e840f
 	github.com/grpc-ecosystem/go-grpc-middleware/v2 v2.1.0
 	github.com/prometheus/client_golang v1.19.0
